@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Christian!
+---
+I'm a second-year student pursuing a Bachelor's in **Robotics and Digital Systems Engineering** at the Instituto Tecnológico y de Estudios Superiores de Monterrey University in the city of Monterrey, Mexico.
+
+I'm heavily passionate on Artificial Intelligence (AI), Machine Learning, Deep Learning, Data Science, Autonomous Vehicles, Robotics and Aerospace Engineering. My projects range from natural language processing and large language models capable of producing generative responses to user queries to object recognition, obstacle avoidance and autonomous navigation in vehicles such as boats.
 
 <!--
 **christianrvillarrealt/christianrvillarrealt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
