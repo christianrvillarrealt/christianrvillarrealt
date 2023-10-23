@@ -21,6 +21,7 @@ My projects range from **natural language processing** and **large language mode
 ## Skills
 
 Python, C++, Javascript, Dart, MATLAB, Flutter, SQL, HTML, CSS
+---
 
 ## My projects
 
