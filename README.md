@@ -31,8 +31,16 @@ Black Box was a project developed during the 2022 edition of the HackMTY hackath
 
 In this project, I supported my colleagues in the physical design of the project through Computer Aided Design and its three-dimensional printing, the connection of electronic components for their operation and in the creation of views and serializers of the Django project of the solution for establishing APIs and linking them to a graphical user interface created with React.
 
-**Github Repository of Black Box Application:** https://github.com/saucesaft/blackbox-app.git
+**Github Repository of Black Box Application:** [https://github.com/saucesaft/blackbox-app.git](https://github.com/saucesaft/blackbox-app.git)
 
-**Github Repository of Black Box Server:** https://github.com/saucesaft/blackbox-server.git
+**Github Repository of Black Box Server:** [https://github.com/saucesaft/blackbox-server.git](https://github.com/saucesaft/blackbox-server.git)
 
 ![black-box-physical-design](https://miscompetenciastec21.tec.mx/elumen/whitelabel/miscompetenciastec21.tec.mx/userfiles/studentFiles/54339/1698099804000BlackBox.jpeg.jpg)
+
+### Xandria
+
+Xandria was a project developed during the 2023 edition of the HackMTY hackathon that gave us an honorable mention in the challenge of the technological and software solutions company Sofftek on a general-purpose search engine. The project consisted of a search engine powered by a Large Language Model (LLM) and a vector database for storing PDF documents.
+
+In this project, I supported my colleagues in designing the overall functioning of the search engine and its individual components. It required an investigation of the Python framework called Langchain and the implementation of a Large Language Model called Falcon built on top of the Meta LLaMA LLM, Hugging Face and ChromaDB. Finally, I co-designed the functionality of the application and assisted in writing the program that deploys generative responses to user queries related to the content of pre-loaded PDF files loaded during use.
+
+**Github Repository of Xandria:** [https://github.com/yoyojambo/KnowledgeBasePy.git](https://github.com/yoyojambo/KnowledgeBasePy.git)
