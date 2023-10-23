@@ -17,3 +17,7 @@ My projects range from **natural language processing** and **large language mode
 - Python language tools for **perception and computer vision algorithms** for autonomous vehicles.
 - **Robot Operating System 2** and its C++ and Python dependencies.
 ---
+
+## Skills
+
+Python, C++, Javascript, Dart, MATLAB, Flutter, SQL, HTML, CSS
