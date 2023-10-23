@@ -35,4 +35,4 @@ In this project, I supported my colleagues in the physical design of the project
 
 **Github Repository of Black Box Server:** https://github.com/saucesaft/blackbox-server.git
 
-[black-box-physical-design](https://miscompetenciastec21.tec.mx/elumen/whitelabel/miscompetenciastec21.tec.mx/userfiles/studentFiles/54339/1698099804000BlackBox.jpeg.jpg)
+![black-box-physical-design](https://miscompetenciastec21.tec.mx/elumen/whitelabel/miscompetenciastec21.tec.mx/userfiles/studentFiles/54339/1698099804000BlackBox.jpeg.jpg)
