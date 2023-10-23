@@ -21,3 +21,16 @@ My projects range from **natural language processing** and **large language mode
 ## Skills
 
 Python, C++, Javascript, Dart, MATLAB, Flutter, SQL, HTML, CSS
+
+## My projects
+
+### Black Box
+
+Black Box was a project developed during the 2022 edition of the HackMTY hackathon that gave us the first place in the insurance company CHUBB's challenge on methods of guaranteeing security to users in the Metaverse. The project consisted of a prototype of a digital and smart wallet that allows its users to access financial services through multiple layers of authentication such as a physical key and passwords.
+
+In this project, I supported my colleagues in the physical design of the project through Computer Aided Design and its three-dimensional printing, the connection of electronic components for their operation and in the creation of views and serializers of the Django project of the solution for establishing APIs and linking them to a graphical user interface created with React.
+
+**Github Repository of Black Box Application:** https://github.com/saucesaft/blackbox-app.git
+**Github Repository of Black Box Server:** https://github.com/saucesaft/blackbox-server.git
+
+[black-box-physical-design]()
