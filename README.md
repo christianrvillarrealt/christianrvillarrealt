@@ -32,6 +32,7 @@ Black Box was a project developed during the 2022 edition of the HackMTY hackath
 In this project, I supported my colleagues in the physical design of the project through Computer Aided Design and its three-dimensional printing, the connection of electronic components for their operation and in the creation of views and serializers of the Django project of the solution for establishing APIs and linking them to a graphical user interface created with React.
 
 **Github Repository of Black Box Application:** https://github.com/saucesaft/blackbox-app.git
+
 **Github Repository of Black Box Server:** https://github.com/saucesaft/blackbox-server.git
 
-[black-box-physical-design]()
+[black-box-physical-design](https://miscompetenciastec21.tec.mx/elumen/whitelabel/miscompetenciastec21.tec.mx/userfiles/studentFiles/54339/1698099804000BlackBox.jpeg.jpg)
