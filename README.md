@@ -1,6 +1,6 @@
 # Hi, I'm Christian!
 ---
-I'm a second-year student pursuing a Bachelor's in **Robotics and Digital Systems Engineering** at the Instituto Tecnológico y de Estudios Superiores de Monterrey University in the city of Monterrey, Mexico.
+I'm a second-year student pursuing a Bachelor's of Science in **Robotics and Digital Systems Engineering** at the Instituto Tecnológico y de Estudios Superiores de Monterrey University in the city of Monterrey, Mexico.
 
 ## My passions
 
