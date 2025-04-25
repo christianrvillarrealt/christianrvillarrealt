@@ -9,8 +9,8 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ## 📬 Get in Touch
 
 ![LinkedIn](www.linkedin.com/in/christianrvillarrealt)
-[![Gmail](![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
-)](christianvillarrealt@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+)](mailto:christianvillarrealt@gmail.com)
 ![Discord]()
 ![Instagram]()
 
