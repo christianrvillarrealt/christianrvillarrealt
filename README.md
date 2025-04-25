@@ -49,16 +49,16 @@
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23000000?style=for-the-badge&logo=gazebo&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-%23000000?style=for-the-badge&logo=coppeliasim&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-**Tools & Platforms**
+## GitHub Statistics
 
-- ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- [Add more: Gazebo, STM32CubeIDE, Arduino, etc.]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianrvillarrealt&show_icons=true&theme=radical)
 
 ---
 
