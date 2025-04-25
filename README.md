@@ -62,6 +62,9 @@
 * **Puzzlebot Challenge**: A differential drive robot provided by ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd) with a closed-loop PID control system and computer vision algorithms capable of autonomous navigation and object recognition.
 * **NAO Telepresence System**: Telepresence system based on the humanoid NAO robot that enables a user to remotely see, hear, and control itself as if it were present physically inside the NAO.
 * **RoboMaster TT Drone**: Drone project to be made.
+* **Autonomous Tractor Waypoint Navigation**: Autonomous tractor prototype with wireless communication for waypoint data management from camera-based GPS, local motion tracking from IMU, and encoder interface for travelled distance estimation.
+* **Intelligent Tractor Driving System**: Embedded system prototype for an automatic transmission controller for an agricultural tractor with RaspberryPi, STM32, and FreeRTOS.
+* **Tractor Simulator**: 3D tractor driving simulator made with the Unity game engine, a DE10-Lite FPGA board configured via VHDL in Intel Quartus Prime, and C# programming.
 
 ---
 
