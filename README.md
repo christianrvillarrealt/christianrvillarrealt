@@ -65,6 +65,9 @@
 * **Autonomous Tractor Waypoint Navigation**: Autonomous tractor prototype with wireless communication for waypoint data management from camera-based GPS, local motion tracking from IMU, and encoder interface for travelled distance estimation.
 * **Intelligent Tractor Driving System**: Embedded system prototype for an automatic transmission controller for an agricultural tractor with RaspberryPi, STM32, and FreeRTOS.
 * **Tractor Simulator**: 3D tractor driving simulator made with the Unity game engine, a DE10-Lite FPGA board configured via VHDL in Intel Quartus Prime, and C# programming.
+* **AquaNet**: IoT system designed to regulate and maintain optimal environmental conditions for pet fish in aquariums through multiple specialized sensors like temperature, pH, ultrasonic, time, and light sensors and water heater, water pump, servomotor, solenoid valve, and RGB multi-color LED strip actuators.
+* **Xandria Search Engine**: Advanced search engine that leveraged a large language model (Falcon LLM) and a vector database (Chroma DB) for document queries. Awarded Honorable Mention in Software Solutions Sponsor Business Softtek's Hackathon Challenge during HackMTY 2023.
+* **BlackBox Digital Wallet**: Smart digital wallet prototype for wireless financial services with access layered through authentication with Python Django and React framework. Awarded 1st Place in Insurance Sponsor Business CHUBB’s Hackathon Challenge during HackMTY 2022.
 
 ---
 
