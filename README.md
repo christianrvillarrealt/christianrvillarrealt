@@ -27,6 +27,8 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ![ROS2]()
 ![Docker]()
 ![Unity]()
+![Gazebo]()
+![CoppeliaSim]()
 
 ![OpenCV]()
 ![NumPy]()
