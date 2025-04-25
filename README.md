@@ -1,6 +1,7 @@
 # Hi, I'm Christian!
 
 ---
+## 😉 But you can call me Chris 
 
 ## 👤 About Me
 
