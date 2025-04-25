@@ -37,6 +37,8 @@
 ![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-005FF9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/JUPYTER_NOTEBOOK-EA4335?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
