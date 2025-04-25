@@ -61,5 +61,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianrvillarrealt&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianrvillarrealt&layout=compact&theme=radical)
+
+
 ---
 
