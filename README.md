@@ -2,11 +2,15 @@
 
 ---
 
-I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digital Systems Engineering** at **Tecnológico de Monterrey** in the city of Monterrey, Mexico. I am passionate about robotics and artificial intelligence.
+## 👤 About Me
+
+* 📖 Third-year Robotics and Digital Systems student at **Tecnológico de Monterrey**.
+* 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/)
+* 🤖 Currently learning about and making autonomous navigation, control systems, and AI projects.
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/christianrvillarrealt)
@@ -17,14 +21,15 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 
 ---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-**Languages & Frameworks**
+**Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%800080?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff5733?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
