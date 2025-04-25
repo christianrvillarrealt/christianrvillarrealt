@@ -36,22 +36,23 @@
 ![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900?style=for-the-badge&logo=nvidia&logoColor=black) 
 ![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-005FF9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/JUPYTER_NOTEBOOK-EA4335?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23000000?style=for-the-badge&logo=gazebo&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-%23000000?style=for-the-badge&logo=coppeliasim&logoColor=white)
 
-![OpenCV]()
-![NumPy]()
-![Pandas]()
-![Anaconda]()
 
 **Tools & Platforms**
 
