@@ -27,9 +27,7 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23000000?style=for-the-badge&logo=gazebo&logoColor=white)
 
-
-![Gazebo]()
-![CoppeliaSim]()
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-%23000000?style=for-the-badge&logo=coppeliasim&logoColor=white)
 
 ![OpenCV]()
 ![NumPy]()
