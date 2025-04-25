@@ -38,6 +38,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-005FF9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/JUPYTER_NOTEBOOK-EA4335?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
