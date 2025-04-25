@@ -21,8 +21,8 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 
 ![Jetson Nano](https://img.shields.io/badge/nvidia-%2376B900?style=for-the-badge&logo=nvidia&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi]()
-![Arduino]()
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![ROS2]()
 ![Docker]()
