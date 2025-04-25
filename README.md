@@ -19,8 +19,8 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Jetson Nano](https://img.shields.io/badge/NVIDIA-%2376B900?logo=nvidia&logoColor=black))
-![STM32]()
+![Jetson Nano](https://img.shields.io/badge/NVIDIA-%2376B900?logo=nvidia&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi]()
 ![Arduino]()
 
