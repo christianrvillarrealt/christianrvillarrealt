@@ -33,8 +33,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Jetson Nano](https://img.shields.io/badge/nvidia-%2376B900?style=for-the-badge&logo=nvidia&logoColor=black) 
-![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900?style=for-the-badge&logo=nvidia&logoColor=black) 
+![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
+![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23000000?style=for-the-badge&logo=gazebo&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-%23000000?style=for-the-badge&logo=coppeliasim&logoColor=white)
