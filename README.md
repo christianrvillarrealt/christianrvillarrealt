@@ -23,10 +23,11 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ![STM32](https://img.shields.io/badge/STM32-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
 
-![ROS2]()
-![Docker]()
-![Unity]()
+![Gazebo](https://img.shields.io/badge/Gazebo-%23000000?style=for-the-badge&logo=gazebo&logoColor=white)
+
+
 ![Gazebo]()
 ![CoppeliaSim]()
 
@@ -34,12 +35,6 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ![NumPy]()
 ![Pandas]()
 ![Anaconda]()
-
-
-
-
-- [Add more: JavaScript, ROS 2, OpenCV, Next.js, etc.]
-
 
 **Tools & Platforms**
 
