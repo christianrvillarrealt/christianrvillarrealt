@@ -57,6 +57,14 @@
 
 ---
 
+## 🤖 My Projects
+
+* **Puzzlebot Challenge**: A differential drive robot provided by ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd) with a closed-loop PID control system and computer vision algorithms capable of autonomous navigation and object recognition.
+* **NAO Telepresence System**: Telepresence system based on the humanoid NAO robot that enables a user to remotely see, hear, and control itself as if it were present physically inside the NAO.
+* **RoboMaster TT Drone**: Drone project to be made.
+
+---
+
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianrvillarrealt&show_icons=true&theme=radical)
