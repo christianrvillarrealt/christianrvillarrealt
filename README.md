@@ -12,8 +12,8 @@ I'm a third-year student pursuing a Bachelor's of Science in **Robotics and Digi
 ](https://www.linkedin.com/in/christianrvillarrealt)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
 ](mailto:christianvillarrealt@gmail.com)
-![Discord]()
-![Instagram]()
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ruloco967)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christian.villarrealt)
 
 ---
 
