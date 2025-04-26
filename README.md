@@ -57,6 +57,15 @@
 
 ---
 
+## Currently Working On...
+
+* Mobile differential drive terrestrial Puzzlebot robot Challenge.
+* Unmanned aerial vehicle RoboMaster TT drone.
+* Humanoid robot NAO v5 telepresence system.
+* Unmanned surface vehicle autonomous navigation software and electronics.
+
+---
+
 ## 🤖 My Projects
 
 * **Puzzlebot Challenge**: A differential drive robot provided by ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd) with a closed-loop PID control system and computer vision algorithms capable of autonomous navigation and object recognition.
@@ -69,6 +78,20 @@
 * **AquaNet**: IoT system designed to regulate and maintain optimal environmental conditions for pet fish in aquariums through multiple specialized sensors like temperature, pH, ultrasonic, time, and light sensors and water heater, water pump, servomotor, solenoid valve, and RGB multi-color LED strip actuators.
 * **Xandria Search Engine**: Advanced search engine that leveraged a large language model (Falcon LLM) and a vector database (Chroma DB) for document queries. Awarded Honorable Mention in Software Solutions Sponsor Business Softtek's Hackathon Challenge during HackMTY 2023.
 * **BlackBox Digital Wallet**: Smart digital wallet prototype for wireless financial services with access layered through authentication with Python Django and React framework. Awarded 1st Place in Insurance Sponsor Business CHUBB’s Hackathon Challenge during HackMTY 2022.
+
+---
+
+## 🏢 Organization Projects
+
+* **Unmanned Surface Vehicle**: Autonomous navigation software and electronics, embedded systems, and PCB development for USV project at ![VantTec](https://github.com/vanttec) for participation in ![RoboBoat](https://robonation.org/programs/roboboat/) by RoboNation competitions and the Autonomous Water Administration System (AWAS) entrepreneurial and innovation solution.
+* **ROS2 Remote Puzzlebot Configuration Interface**: Migration to ROS2 framework of interface developed with the Django Python framework for the configuration of differential drive ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd) Puzzlebots at the ![Multi-Robotic Systems Laboratory](https://github.com/mrsl-itesm) located in ITESM, Monterrey, Mexico.
+
+---
+
+## 🎓 Education
+
+* Tecnológico de Monterrey (Monterrey, Mexico)
+  Bachelor's Degree in **Robotics and Digital Systems Engineering** (Expected 2026).
 
 ---
 
