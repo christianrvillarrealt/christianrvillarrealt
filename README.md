@@ -7,6 +7,7 @@
 
 * 📖 Third-year Robotics and Digital Systems student at **Tecnológico de Monterrey**.
 * 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/)
+* 📚 Service Intern at ![Multi-Robotic Systems Laboratory](https://github.com/mrsl-itesm)
 * 🤖 Currently learning about and making autonomous navigation, control systems, and AI projects.
 
 ---
