@@ -6,6 +6,7 @@
 ## 👤 About Me
 
 * 📖 Third-year Robotics and Digital Systems student at **Tecnológico de Monterrey**.
+* 🔧 Developing an autonomous navigation, control system, and computer vision based differential drive robot project with ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd).
 * 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/).
 * 📚 Service Intern at ![Multi-Robotic Systems Laboratory](https://github.com/mrsl-itesm).
 * Developing a Robotics-Oriented Solution in Collaboration with the ![Center for the Recognition of Human Dignity](https://tec.mx/es/dignidad-humana/la-diversidad-y-la-inclusion-al-centro?srsltid=AfmBOorPqXzo9O2PrHFx1j0P4DFQNZxiSz0M93pTeFIhnRJ3a4OLbDjT) as Social Service
