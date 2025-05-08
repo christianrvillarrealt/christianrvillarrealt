@@ -9,7 +9,7 @@
 * 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/).
 * 📚 Service Intern at ![Multi-Robotic Systems Laboratory](https://github.com/mrsl-itesm).
 * Developing a Robotics-Oriented Solution in Collaboration with the ![Center for the Recognition of Human Dignity](https://tec.mx/es/dignidad-humana/la-diversidad-y-la-inclusion-al-centro?srsltid=AfmBOorPqXzo9O2PrHFx1j0P4DFQNZxiSz0M93pTeFIhnRJ3a4OLbDjT) as Social Service
-* 🤖 Currently learning about and making autonomous navigation, control systems, and AI projects.
+* 🤖 Currently learning about and developing autonomous navigation, control systems, computer vision, and AI projects.
 
 ---
 
