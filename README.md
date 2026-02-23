@@ -5,17 +5,21 @@
 
 ## 👤 About Me
 
-* 📖 Third-year Robotics and Digital Systems student at **Tecnológico de Monterrey**.
-* 🔧 Developing an autonomous navigation, control system, and computer vision based differential drive robot project with ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd).
+* 📖 Senior full-time B.S. Robotics and Digital Systems undergraduate student at ![Tecnológico de Monterrey](https://tec.mx/en?srsltid=AfmBOope9gEEUscH_uVDhY8-BCfuwQBbCtDNl5oLi6PFbTXEV1XeG4_5).
+* 🇨🇳 Former International Exchange Visiting Student of Computer Science and Technology and Emerging Technologies in Electronics Engineering at ![Beijing Institute of Technology](https://english.bit.edu.cn/).
+* 🇯🇵 International Research Visiting Student at ![AIST Tokyo Waterfront]([https://english.bit.edu.cn/](https://www.aist.go.jp/waterfront/index_en.html)).
+* 🦿 ANYmal Project Member at ![RASTec](https://www.instagram.com/rastecmty/).
 * 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/).
+* 🔧 Developed an autonomous navigation, control system, and computer vision based differential drive robot project with ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd).
 * 📚 Service Intern at ![Multi-Robotic Systems Laboratory](https://github.com/mrsl-itesm).
-* Developing a Robotics-Oriented Solution in Collaboration with the ![Center for the Recognition of Human Dignity](https://tec.mx/es/dignidad-humana/la-diversidad-y-la-inclusion-al-centro?srsltid=AfmBOorPqXzo9O2PrHFx1j0P4DFQNZxiSz0M93pTeFIhnRJ3a4OLbDjT) as Social Service
+* Developed a Robotics-Oriented Solution in Collaboration with the ![Center for the Recognition of Human Dignity](https://tec.mx/es/dignidad-humana/la-diversidad-y-la-inclusion-al-centro?srsltid=AfmBOorPqXzo9O2PrHFx1j0P4DFQNZxiSz0M93pTeFIhnRJ3a4OLbDjT) as Social Service
 * 🤖 Currently learning about and developing autonomous navigation, control systems, computer vision, and AI projects.
 
 ---
 
 ## 📬 Contact Me
 
+[![Personal Website](👤)](https://christianrvillarrealt.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/christianrvillarrealt)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
