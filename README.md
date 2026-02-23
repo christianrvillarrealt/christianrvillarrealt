@@ -19,7 +19,7 @@
 
 ## 📬 Contact Me
 
-[![Personal Website](👤)](https://christianrvillarrealt.github.io/)
+[![Personal Website]](https://christianrvillarrealt.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/christianrvillarrealt)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
