@@ -6,8 +6,7 @@
 ## 👤 About Me
 
 * 📖 Senior full-time B.S. Robotics and Digital Systems undergraduate student at ![Tecnológico de Monterrey](https://tec.mx/en?srsltid=AfmBOope9gEEUscH_uVDhY8-BCfuwQBbCtDNl5oLi6PFbTXEV1XeG4_5).
-* 🇨🇳 Former International Exchange Visiting Student of Computer Science and Technology and Emerging Technologies in Electronics Engineering at ![Beijing Institute of Technology](https://english.bit.edu.cn/).
-* 🇯🇵 International Research Visiting Student at ![AIST Tokyo Waterfront]([https://english.bit.edu.cn/](https://www.aist.go.jp/waterfront/index_en.html)).
+* 🇯🇵 International Research Visiting Student at ![AIST Tsukuba Joint Robotics Laboratory](https://unit.aist.go.jp/isri/isri-jrl/en/).
 * 🦿 ANYmal Project Member at ![RASTec](https://www.instagram.com/rastecmty/).
 * 🛥️ Software and Electronics Member of USV Project at ![VantTec](https://vanttec.com/).
 * 🔧 Developed an autonomous navigation, control system, and computer vision based differential drive robot project with ![Manchester Robotics Ltd.](https://github.com/ManchesterRoboticsLtd).
